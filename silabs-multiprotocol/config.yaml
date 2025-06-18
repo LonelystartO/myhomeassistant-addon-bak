@@ -1,5 +1,5 @@
 ---
-version: 1.0.0
+version: 1.0.1
 slug: silabs_multiprotocol
 name: Silicon Labs Multiprotocol Cube LY
 description: Zigbee and OpenThread multiprotocol add-on
